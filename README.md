@@ -12,8 +12,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brokenpoems&repo=github-readme-stats)](https://github.com/brokenpoems/Typecho-AdminHitokoto)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brokenpoems)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brokenpoems&&layout=compact)]()
+]
 <!--
 **brokenpoems/brokenpoems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
