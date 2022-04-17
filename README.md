@@ -10,8 +10,13 @@
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=brokenpoems&show_icons=true&hide_border=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brokenpoems&repo=github-readme-stats)](https://github.com/brokenpoems/Typecho-AdminHitokoto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brokenpoems)]
+
 <!--
 **brokenpoems/brokenpoems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
