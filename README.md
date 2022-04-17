@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning cpp php cs ts and so on
-
+- 🤔 I’m looking for help with My Broken English
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=brokenpoems&show_icons=true&hide_border=true)
 
