@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/brokenpoems/count.svg" />
-</p>
-
 - 🌱 I’m currently learning cpp php cs ts and so on
 - 🤔 I’m looking for help with My Broken English
 
