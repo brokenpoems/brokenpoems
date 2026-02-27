@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning cpp php cs ts and so on
 - 🤔 I’m looking for help with My Broken English
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=brokenpoems&show_icons=true&hide_border=true&theme=tokyonight)
+![my github stats](./profile/stats.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brokenpoems&repo=Typecho-AdminHitokoto&theme=tokyonight)](https://github.com/brokenpoems/Typecho-AdminHitokoto)
+[![Readme Card](./profile/pin-readme-tools-github-readme-stats.svg)](https://github.com/brokenpoems/Typecho-AdminHitokoto)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brokenpoems&&layout=compact&theme=tokyonight)]()
+[![Top Langs](./profile/top-langs.svg)]()
 
 
 <!--
